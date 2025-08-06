@@ -4,7 +4,7 @@ collection: teaching
 type:
 permalink: /teaching/summer-reu-2025
 venue:
-date: 2025
+date: 2025-07-01
 location:
 ---
 
