@@ -35,5 +35,5 @@ main:
   - title: "CV"
     url: /files/Yuchen_Liang_CV.pdf
 
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/

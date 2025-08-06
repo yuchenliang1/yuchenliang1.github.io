@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 Journal Review
-=====
+-----
 
 * IEEE Transactions on Information Theory
 * IEEE Transactions on Signal Processing
@@ -19,7 +19,7 @@ Journal Review
 * IEEE Transactions on Networking
 
 Conference Review
-=====
+-----
 
 * Annual Conference on Neural Information Processing Systems (NeurIPS)
 * IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
@@ -28,7 +28,7 @@ Conference Review
 
 
 Organizing Committee
-=====
+-----
 
 * Chair, AI-EDGE SPARKS Seminar Series, Spring 2025-Present.
 * Executive Organizing Committee Member, NSF REU Program, Summer 2025.
