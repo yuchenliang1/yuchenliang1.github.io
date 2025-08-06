@@ -3,7 +3,7 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# `jekyll serve -l -H localhost`. If you change this file, please restart the
 # server process.
 
 # Basic Site Settings
@@ -23,13 +23,13 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : "he/him" # example: "she/her"  
+  name             : "Yuchen Liang"
+  pronouns         : "he/him" # example: "she/her"
   bio              : "Postdoc @ OSU"
   location         : "Columbus, OH"
   employer         : "The Ohio State University"
   # uri              : # URL
-  email            : "liang.1439@osu.edu" 
+  email            : "liang.1439@osu.edu"
 
   # Academic websites
   academia         : # URL
@@ -48,8 +48,8 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : # Username
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : # Username
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
   artstation       : # Username
@@ -83,7 +83,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
