@@ -33,7 +33,7 @@ main:
   #   url: /cv-json/
 
   - title: "CV"
-    url: files/Yuchen_Liang_CV.pdf
+    url: /files/Yuchen_Liang_CV.pdf
 
   - title: "Guide"
     url: /markdown/
