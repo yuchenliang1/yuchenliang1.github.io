@@ -11,7 +11,7 @@ Hi, there! I'm a postdoctoral researcher at The Ohio State University (OSU), adv
 
 My research focuses on generative models and statistical inference, aiming to understand the mathematical foundations of existing algorithms and to design new methods that are both theoretically sound and practically effective. Some of my recent interests include:
 * Foundations of diffusion models, especially masked diffusion models
-* Control of diffusion models, including zero-shot/few-shot learning and using RL-based techniques
+* Control of diffusion models, including using RL-based techniques
 * Generative models, particularly diffusion models, in scientific applications
 * Quickest change detection, anomaly detection, and sequential analysis
 <!-- * Robust testing and inference under model uncertainty and mismatch -->
