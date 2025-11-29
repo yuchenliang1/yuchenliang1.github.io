@@ -11,9 +11,9 @@ Hi, there! I'm an [AI-EDGE](https://aiedge.osu.edu/) postdoctoral researcher at 
 
 My research focuses on generative models and statistical inference, aiming to understand the mathematical foundations of existing algorithms and to design new methods that are both theoretically sound and practically effective. Some of my recent interests include:
 * Foundations of diffusion models, especially masked diffusion models
-* Control of diffusion models, including using RL-based techniques
-* Integration of generative modeling and decision-making in scientific and medical applications
-* Quickest change detection, anomaly detection, and sequential analysis
+* Control of generative models, including using RL-based techniques
+* Integration of generative modeling and decision-making
+* Trustworthy AI, especially optimal and robust anomaly detection in data monitoring
 <!-- * Robust testing and inference under model uncertainty and mismatch -->
 
 
