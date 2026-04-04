@@ -7,14 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi, there! I'm an [AI-EDGE](https://aiedge.osu.edu/) postdoctoral researcher at The Ohio State University (OSU), co-supervised by [Yingbin Liang](https://sites.google.com/view/yingbinliang/) and [Ness B. Shroff](https://u.osu.edu/shroff-11/). Before this, I obtained my Ph.D. in the Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign (UIUC) in 2023, advised by [Venugopal V. Veeravalli](https://vvv.ece.illinois.edu/). Prior to this, I received my B.S. in Electrical and Computer Engineering in 2019, also from UIUC.
+Hi, there! I'm an [AI-EDGE](https://aiedge.osu.edu/) postdoctoral researcher at The Ohio State University (OSU), co-supervised by [Yingbin Liang](https://sites.google.com/view/yingbinliang/) and [Ness B. Shroff](https://u.osu.edu/shroff-11/). Before this, I obtained my Ph.D. in the Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign (UIUC) in 2023, advised by [Venugopal V. Veeravalli](https://vvv.ece.illinois.edu/).
+
+<span style="color:red">I will join the [Luddy School of Informatics, Computing, and Engineering](https://luddy.indianapolis.iu.edu/) at Indiana University Indianapolis as Assistant Professor in Fall 2026. I am actively recruiting highly motivated students with backgrounds in CS, CE, Statistics, and Math. If you are interested, please send me your CV/resume with a brief introduction. </span>
 
 My research focuses on generative models and statistical inference, aiming to understand the mathematical foundations of existing algorithms and to design new methods that are both theoretically sound and practically effective. Some of my recent interests include:
-* Foundations of diffusion models, especially masked diffusion models
-* Control of generative models, including using RL-based techniques
-* Integration of generative modeling and decision-making
-* Trustworthy AI, especially optimal and robust anomaly detection in data monitoring
-<!-- * Robust testing and inference under model uncertainty and mismatch -->
+* Foundations of Diffusion Models, especially Masked Diffusion Models
+* Controlled Sampling, such as Fine-tuning and Inference-time Methods
+* Anomaly Detection and Trustworthy AI
+* Generative AI in Medicine and Healthcare
 
 
 <!-- Getting started

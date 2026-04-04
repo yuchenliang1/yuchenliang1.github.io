@@ -6,6 +6,15 @@ author_profile: true
 
 {% include base_path %}
 
+Conference Review
+-----
+
+* Annual Conference on Neural Information Processing Systems (NeurIPS)
+* International Conference on Machine Learning (ICML)
+* IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+* IEEE Information Theory Workshop (ITW)
+* IEEE International Symposium on Information Theory (ISIT)
+
 Journal Review
 -----
 
@@ -17,15 +26,6 @@ Journal Review
 * Communications in Statistics - Theory and Methods
 * Journal of Statistical Planning and Inference (JSPI)
 * IEEE Transactions on Networking
-
-Conference Review
------
-
-* Annual Conference on Neural Information Processing Systems (NeurIPS)
-* IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
-* IEEE Information Theory Workshop (ITW)
-* IEEE International Symposium on Information Theory (ISIT)
-
 
 Organizing Committee
 -----
