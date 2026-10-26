@@ -14,7 +14,7 @@ Hi, there! I'm an incoming Assistant Professor at the [Luddy School of Informati
 My research focuses on generative models and statistical inference, aiming to understand the mathematical foundations of existing algorithms and to design new methods that are both theoretically sound and practically effective. Some of my recent interests include:
 * Foundations of Diffusion and Generative Models
 * Controlled and Robust Sampling, especially Inference-time Methods
-* Safe and Trustworthy Generative AI, with applications in medicine and healthcare
+* Sequential Statistical Inference and Change Detection for Trustworthy AI
 
 <!-- Getting started
 ======
