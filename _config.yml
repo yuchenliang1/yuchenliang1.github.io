@@ -169,6 +169,11 @@ exclude:
   - .github
   - .jekyll-assets-cache
   - .sass-cache
+  # Reference pages and sample content that duplicate maintained URLs.
+  - _pages/teaching-ref.html
+  - _pages/publications-ref.html
+  - _pages/talks-ref.html
+  - _publications/2025-06-08-paper-title-number-5.md
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
